@@ -1,0 +1,62 @@
+#body {    
+background-color: #E1B37D;
+}
+
+#textoLogo {
+    position: absolute;
+width: 613px;
+height: 207px;
+left: 254px;
+top: -21px;
+
+font-family: GUITAR ACOUSTIC;
+font-style: normal;
+font-weight: normal;
+font-size: 100px;
+line-height: 172px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+text-shadow: -5px 7px 4px rgba(0, 0, 0, 0.5);
+}
+
+#itensMenu {
+    margin-left: 70%;
+    color: #7DAF7B;
+}
+
+#entrar {
+    position: absolute;
+    width: 200px;
+    height: 57px; 
+    bottom: 100px;
+    background: #B87E53;
+    border: 3px solid #587954;
+    box-sizing: border-box;
+    border-radius: 35px;
+}
+
+#conta {
+    margin-top: 2rem;
+    position: absolute;
+    width: 200px;
+    height: 57px;
+    top: 50px;    
+    background: #B87E53;
+    border: 3px solid #587954;
+    box-sizing: border-box;
+    border-radius: 35px;
+}
+
+#registro {
+    color: #000000;
+}
+
+#header {
+    background-color: #7DAF7B;
+    height: 175px;
+    border: 3px solid #EBDC7D;
+}
