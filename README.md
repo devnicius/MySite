@@ -1,11 +1,5 @@
-<p align="center"
-width="550">
-  </a>
-</p>
+vinic-dev.github.io
+=====================
+ <http://vinic-dev.github.io> and read the guide at 
 
-Salve, salve!!
-Aqui quem fala é o Ryuuzaken (Vinícius Silva de Oliveira) e este é o meu site pessoal.
-## Autor
-
-| [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@v5nny</sub>](https://github.com/v5nny) |
-| :---: |
+Users are free to copy and re-use any and all of the code contained here without contacting me.
