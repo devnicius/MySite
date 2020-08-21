@@ -1,5 +1,7 @@
-vinic-dev.github.io
+# Para entrar em contato, saber mais sobre mim e ver meus projetos, acesse a minha página.
 =====================
- <http://vinic-dev.github.io> and read the guide at 
+
+[Minha página](https://www.devnicius.github.io/)
+
 
 Users are free to copy and re-use any and all of the code contained here without contacting me.
